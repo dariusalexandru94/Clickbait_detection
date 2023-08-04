@@ -10,8 +10,8 @@ headlines from news headlines has been a challenging issue for the machine learn
 
 ## Data
 
-* dataset: https://drive.google.com/drive/folders/1aPzn_Qu4tLx9TWfF1Zqa2uYWO22P9XCK?usp=sharing - 500 instances
-* original dataset from Kaggle: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset - 32000 instances
+* dataset: https://drive.google.com/drive/folders/1aPzn_Qu4tLx9TWfF1Zqa2uYWO22P9XCK?usp=sharing - 500 instances;
+* original dataset from Kaggle: https://www.kaggle.com/datasets/amananandrai/clickbait-dataset - 32000 instances.
 
 ## Assignment
 
